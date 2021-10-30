@@ -1,4 +1,4 @@
-# Aurora_Grove
+# Aurora Grove
 
 Responsive site using the mobile-first flexbox grid </br> 
 about a camping resort where you can see the northern lights, </br> 
